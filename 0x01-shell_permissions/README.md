@@ -2,3 +2,4 @@
 1-who_am_i : Write a script that prints the effective username of the current user.
 2-groups : Write a script that prints the effective username of the current user.
 3-new_owner : Write a script that changes the owner of the file hello to the user betty
+5-execute : Write a script that adds execute permission to the owner of the file hello
